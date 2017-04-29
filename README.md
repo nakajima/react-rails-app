@@ -1,4 +1,4 @@
 ```
-bundle install
-foreman start -f Procfile.dev
+script/bootstrap
+script/server
 ```
